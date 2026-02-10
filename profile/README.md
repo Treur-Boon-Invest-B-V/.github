@@ -2,4 +2,4 @@
 
 ## Contact & Support
 
-For questions, architectural decisions, or access permissions, reach out to the core dev team at dev@treurbooninvest.nl
+For questions reach out to the core dev team at dev@treurbooninvest.nl
